@@ -29,7 +29,7 @@
     "fs-extra": "^11.3.0",
     "fs": "^0.0.1-security",
     "googleapis": "^144.0.0",
-    "gradient-string": "^3.0.0",
+    "gradient-string": "^2.0.2",
     "graphql-query-to-json": "^2.0.1",
     "jsonlint-mod": "^1.7.6",
     "moment-timezone": "^0.5.47",
