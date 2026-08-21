@@ -16,7 +16,7 @@
                 "fs": "^0.0.1-security",
                 "nodemailer": "^6.7.5",
                 "npmlog": "^7.0.1",
-                "canvas": "3.2.3",
+                "canvas": "2.11.2",
                 "chalk": "4.1.2",
                 "cheerio": "1.2.0",
                 "child_process": "1.0.2",
